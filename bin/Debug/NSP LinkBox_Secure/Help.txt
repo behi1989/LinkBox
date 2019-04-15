@@ -1,0 +1,4 @@
+Login Pass:123
+Need Program :
+	Dot Net Framwork 4 - 4.5
+	Sql LocalDB Express 2012

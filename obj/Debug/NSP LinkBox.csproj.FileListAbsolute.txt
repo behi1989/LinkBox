@@ -1,0 +1,15 @@
+C:\Users\NSP-Team\Desktop\NSP-Project\NSP LinkBox\NSP LinkBox\bin\Debug\NSP LinkBox.exe.config
+C:\Users\NSP-Team\Desktop\NSP-Project\NSP LinkBox\NSP LinkBox\bin\Debug\NSP LinkBox.exe
+C:\Users\NSP-Team\Desktop\NSP-Project\NSP LinkBox\NSP LinkBox\bin\Debug\NSP LinkBox.pdb
+C:\Users\NSP-Team\Desktop\NSP-Project\NSP LinkBox\NSP LinkBox\obj\Debug\NSP LinkBox.csprojResolveAssemblyReference.cache
+C:\Users\NSP-Team\Desktop\NSP-Project\NSP LinkBox\NSP LinkBox\obj\Debug\NSP_LinkBox.frmMain.resources
+C:\Users\NSP-Team\Desktop\NSP-Project\NSP LinkBox\NSP LinkBox\obj\Debug\NSP_LinkBox.Properties.Resources.resources
+C:\Users\NSP-Team\Desktop\NSP-Project\NSP LinkBox\NSP LinkBox\obj\Debug\NSP LinkBox.csproj.GenerateResource.Cache
+C:\Users\NSP-Team\Desktop\NSP-Project\NSP LinkBox\NSP LinkBox\obj\Debug\NSP LinkBox.exe
+C:\Users\NSP-Team\Desktop\NSP-Project\NSP LinkBox\NSP LinkBox\obj\Debug\NSP LinkBox.pdb
+C:\Users\NSP-Team\Desktop\NSP-Project\NSP LinkBox\NSP LinkBox\bin\Debug\FarsiLibrary.Win.dll
+C:\Users\NSP-Team\Desktop\NSP-Project\NSP LinkBox\NSP LinkBox\bin\Debug\FarsiLibrary.Utils.dll
+C:\Users\NSP-Team\Desktop\NSP-Project\NSP LinkBox\NSP LinkBox\bin\Debug\FarsiLibrary.Resources.dll
+C:\Users\NSP-Team\Desktop\NSP-Project\NSP LinkBox\NSP LinkBox\bin\Debug\FarsiLibrary.Win.xml
+C:\Users\NSP-Team\Desktop\NSP-Project\NSP LinkBox\NSP LinkBox\bin\Debug\FarsiLibrary.Utils.xml
+C:\Users\NSP-Team\Desktop\NSP-Project\NSP LinkBox\NSP LinkBox\bin\Debug\FarsiLibrary.Resources.xml
